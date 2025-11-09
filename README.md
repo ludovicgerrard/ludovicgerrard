@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-```
-I'm software engineer since 2015, passionnate in new tech. My main skill is web development with Javascript, but I also make desktop app and mobile app with Java. Find solution, resolve puzzle and drink coffee is my daily. Don't hesitate to contact me.
-```
+I'm software engineer since 2015, passionnate in new tech. My main skill is web development with Javascript, but I also make desktop app and mobile app with Java. Find solution, resolve puzzle and drink coffee is my daily. Don't hesitate to contact me.  
 
 - 🌱 I’m currently learning implement AI as tool in web tech
 - 📫 How to reach me: 🔗 [https://linkedin.com/in/ludovic-andria](https://linkedin.com/in/ludovic-andria)
@@ -10,7 +8,6 @@ I'm software engineer since 2015, passionnate in new tech. My main skill is web 
 
 ## Some work I have done
 
-| Image 1 | Image 2 | Image 3 |
 |--------|---------|---------|
 | ![](https://azdle9.n0c.world/archive/siel/rectangle_1_1x.webp) | ![](https://azdle9.n0c.world/archive/siel/rectangle_2_1x.webp) | ![](https://azdle9.n0c.world/archive/siel/rectangle_3_1x.webp) |
 <!--
